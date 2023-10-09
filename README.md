@@ -1,4 +1,4 @@
-![readme_cover](https://github.com/itcreativeusa/itcreativeusa/assets/124653995/6e55a5ce-8784-49dc-89fd-b8fe128931a4)
+![Readme_cover](https://github.com/itcreativeusa/itcreativeusa/assets/124653995/a776277a-8527-4d5d-b660-a6eb66ca494c)
 
 # Hello, World! 👋
 Welcome to my GitHub corner! I'm Kateryna Stetsenko, a passionate full-stack developer based in Mountain View. Here's a little snippet about me:
