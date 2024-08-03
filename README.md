@@ -1,5 +1,3 @@
-![Readme_cover](https://github.com/itcreativeusa/itcreativeusa/assets/124653995/a776277a-8527-4d5d-b660-a6eb66ca494c)
-
 # Hello, World! 👋
 Welcome to my GitHub corner! I'm Kateryna Stetsenko, a passionate full-stack developer based in Mountain View. Here's a little snippet about me:
 
@@ -12,37 +10,36 @@ Currently, my primary focus is on securing a challenging role in the tech indust
 ## 🚀 Tech Stack
 
 ### Front-End
-- **Languages:** HTML5, CSS3, JavaScript (ES5/6), TypeScript
-- **Frameworks/Libraries:** React, Next.js, Bootstrap, jQuery, Vue.js
-- **Technologies:** AJAX, DOM manipulation, Tailwind CSS
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks/Libraries:** React, Vue.js, Next.js
+- **Technologies:** Tailwind CSS
 
 ### Back-End
 - **Languages:** JavaScript (Node.js)
 - **Frameworks:** Express.js
-- **Databases:** MySQL, Sequelize ORM, NoSQL (MongoDB), Mongoose ODM
+- **Databases:** MongoDB, MySQL, Sequelize ORM, Mongoose ODM
 - **Full-Stack Frameworks:** MERN Stack (MongoDB, Express.js, React, Node.js)
 
-### DevOps
-- **Version Control:** Git, GitHub
-- **Deployment:** AWS, Heroku
+### Deployment
+- **Platforms:** AWS
 
-### Testing & Quality
-- **Testing:** Unit testing, Test-driven development, Playwright, Puppeteer
+### APIs
+- **Types:** RESTful, GraphQL
+
+### Development Workflow
+- **Tools:** ESLint, Babel, Parcel, Jenkins (CI/CD)
+
+### Testing Tools
+- **Tools:** Playwright, Puppeteer
+
+### Profiling and Monitoring
+- **Tools:** Lighthouse, Webpack Bundle Analyzer, React Dev Tools, Chrome Dev Tools, Sentry
+
+### Version Control
+- **Tools:** Git, GitHub
 
 ### Project Management
-- **Methodology:** Agile development
-- **Collaboration:** Team collaboration, Product Management
-
-### Other Skills
-- **Data Formats:** JSON
-- **Web APIs:** RESTful APIs, GraphQL
-- **Paradigm:** MVC (Model-View-Controller)
-- **Programming:** Object-oriented programming
-- **Web:** Progressive Web Apps
-
-### Additional Tools
-- **Development Workflow:** ESLint, Babel, Parcel, Jenkins (CI/CD)
-- **Profiling and Monitoring:** Lighthouse, Webpack Bundle Analyzer, React Dev Tools, Chrome Dev Tools, Sentry
+- **Skills:** Team Collaboration and Communication, Product Management, Problem-solving and Analytical Skills
 
 ## 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/katestetsenko](https://www.linkedin.com/in/katestetsenko/)
@@ -91,12 +88,12 @@ UC Berkeley Extension, Berkeley, CA
 ## 📜 Projects
 
 ### Recipe Big Book
-- Developed a comprehensive recipe management application.
-- Technologies: MERN stack (MongoDB, Express.js, React, Node.js)
+- Built a recipe management application. Designed and developed both the front-end and back-end, and managed the database.
+- Technologies: MongoDB, Express.js, React, Node.js
 - [GitHub Repository](https://github.com/itcreativeusa/recipe-big-book)
 
 ### Velvet
-- Created an eCommerce platform specializing in clothing.
+- Developed an eCommerce platform specializing in clothing. Created the front-end and back-end with integrated payment processing.
 - Technologies: MERN stack (MongoDB, Express.js, React, Node.js), GraphQL, Mongoose ODM, Stripe API
 - [GitHub Repository](https://github.com/itcreativeusa/velvet)
 
@@ -107,4 +104,3 @@ UC Berkeley Extension, Berkeley, CA
 ---
 
 Feel free to connect with me and let's create something amazing together!
-
