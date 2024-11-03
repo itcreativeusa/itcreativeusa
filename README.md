@@ -1,6 +1,6 @@
 ![Readme_cover](https://github.com/itcreativeusa/itcreativeusa/assets/124653995/a776277a-8527-4d5d-b660-a6eb66ca494c)
 # Hello, World! 👋
-Welcome to my GitHub corner! I'm Kateryna Stetsenko, a passionate front-end and full-stack developer based in Mountain View. Here's a little snippet about me:
+Welcome to my GitHub corner! I'm Kateryna Stetsenko, a passionate **Front-End** and **Full-Stac**k developer based in Mountain View. Here's a little snippet about me:
 
 ## 👨‍💻 About Me
 I'm a tech enthusiast with a flair for creating startups and managing projects. My coding odyssey began when I completed the intensive full-stack development program at Berkeley Bootcamp, where I honed my skills in web development using cutting-edge technologies and frameworks.
